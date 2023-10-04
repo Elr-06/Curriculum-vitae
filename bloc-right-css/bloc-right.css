@@ -1,0 +1,21 @@
+section{
+  background-color: white;
+  width: 60%;
+  padding: 10px;
+}
+section h4{
+  padding: 2px;
+  background-color: #dbc2a4;
+  border-left: 5px solid #782221;
+}
+section h5, p{
+  margin: 10px 0px;
+}
+
+section h4:hover{
+  border-right: 5px solid #782221;
+}
+section ul{
+  padding-left: 20px;
+  margin: 10px 0px;
+}

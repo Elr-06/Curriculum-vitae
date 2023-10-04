@@ -1,0 +1,10 @@
+footer .footer_containt {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer div img:hover{
+  opacity: 0.5;
+  
+}
