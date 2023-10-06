@@ -8,3 +8,14 @@ footer div img:hover{
   opacity: 0.5;
   
 }
+footer div img{
+  width: 50px;
+}
+footer div img{
+  padding: 10px;;
+}
+footer .container{
+  display: flex;
+  justify-content: center ;
+  color:white
+}
